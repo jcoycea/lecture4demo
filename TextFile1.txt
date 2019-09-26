@@ -7,4 +7,4 @@ IAT 339
 
 Editing in branch1
 
-Hello edit in branch 1
+Hello editing file 1 in branch 2
