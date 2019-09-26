@@ -1,8 +1,8 @@
 This is text file 1. 
 
-<<<<<<< Updated upstream
-=======
+
 Edit 1: testing a commit
 
 IAT 339
->>>>>>> Stashed changes
+
+Editing in branch1
